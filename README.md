@@ -1,13 +1,17 @@
 # gtaiyou24
 
 ## アルゴリズムトレード
-仮想通貨の自動売買システム
+暗号通貨の自動売買システム
 
  - [market-data-curator](https://github.com/gtaiyou24/market-data-curator) : 市場データを収集するプログラム
  - [feature-analysts](https://github.com/gtaiyou24/feature-analysts) : rawデータを特徴量や予測値など情報のあるシグナルに変換するプログラム
  - [asset-manager](https://github.com/gtaiyou24/market-data-curator) : アルゴリズム戦略を実行し、管理するプログラム
 
 ## クローラー
+
+
+
+## ファッション
 
 WIP
 
@@ -20,7 +24,4 @@ WIP
  - [recommender](https://github.com/gtaiyou24/recommender): 推薦システム
 
 ## DEV系
-
-## サイドビジネス
-
 WIP
