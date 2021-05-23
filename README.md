@@ -16,3 +16,9 @@ WIP
  - [ml-image-recognition](https://github.com/gtaiyou24/ml-image-recognition): 画像認識
  - [ml-nlp](https://github.com/gtaiyou24/ml-nlp): 自然言語処理
  - [recommender](https://github.com/gtaiyou24/recommender): 推薦システム
+
+## DEV系
+
+## サイドビジネス
+
+WIP
