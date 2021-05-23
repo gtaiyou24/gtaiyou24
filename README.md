@@ -5,11 +5,12 @@
 
  - [market-data-curator](https://github.com/gtaiyou24/market-data-curator) : 市場データを収集するプログラム
  - [feature-analysts](https://github.com/gtaiyou24/feature-analysts) : rawデータを特徴量や予測値など情報のあるシグナルに変換するプログラム
+ - [strategist](https://github.com/gtaiyou24/strategist) : 情報のある特徴量を実際の投資アルゴリズムに変換する
  - [asset-manager](https://github.com/gtaiyou24/market-data-curator) : アルゴリズム戦略を実行し、管理するプログラム
 
-## クローラー
+## クローラーシステム
 
-
+ - [epic-crawler](https://github.com/gtaiyou24/epic-crawler) : クローラー
 
 ## ファッション
 
