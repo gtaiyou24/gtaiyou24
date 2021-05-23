@@ -24,4 +24,11 @@ WIP
  - [recommender](https://github.com/gtaiyou24/recommender): 推薦システム
 
 ## DEV系
-WIP
+
+ - [dev-ddd](https://github.com/gtaiyou24/dev-ddd) : ドメイン駆動設計
+ - [dev-web-application](https://github.com/gtaiyou24/dev-web-application) : Webアプリケーション開発
+ - [dev-mobile-application](https://github.com/gtaiyou24/dev-mobile-application) : モバイルアプリケーション開発
+ - [dev-web-api](https://github.com/gtaiyou24/dev-web-api) : Web API
+ - [dev-db](https://github.com/gtaiyou24/dev-db) : DB
+ - [dev-aws](https://github.com/gtaiyou24/dev-aws) : AWS
+ - [dev-Linux](https://github.com/gtaiyou24/dev-Linux) : Linux
