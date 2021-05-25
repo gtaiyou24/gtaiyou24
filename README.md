@@ -14,7 +14,7 @@
  - [strategist](https://github.com/gtaiyou24/strategist) : 情報のある特徴量を実際の投資アルゴリズムに変換する
  - [asset-manager](https://github.com/gtaiyou24/market-data-curator) : アルゴリズム戦略を実行し、管理するプログラム
 
-## クローラーシステム
+## クローリングシステム
 
  - [epic-crawler](https://github.com/gtaiyou24/epic-crawler) : クローラー
 
