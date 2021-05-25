@@ -1,7 +1,10 @@
-# gtaiyou24
+# プロフィール
 
-## ポートフォリオ
-### アルゴリズムトレード
+
+---
+
+# ポートフォリオ
+## アルゴリズムトレード
 暗号通貨の自動売買システム
 
  - [market-data-curator](https://github.com/gtaiyou24/market-data-curator) : 市場データを収集するプログラム
@@ -9,15 +12,15 @@
  - [strategist](https://github.com/gtaiyou24/strategist) : 情報のある特徴量を実際の投資アルゴリズムに変換する
  - [asset-manager](https://github.com/gtaiyou24/market-data-curator) : アルゴリズム戦略を実行し、管理するプログラム
 
-### クローラーシステム
+## クローラーシステム
 
  - [epic-crawler](https://github.com/gtaiyou24/epic-crawler) : クローラー
 
-### ファッション
+## ファッション
 
 WIP
 
-### ML系
+## ML系
 
  - [ml-algorithm](https://github.com/gtaiyou24/ml-algorithm): 機械学習/統計
  - [ml-image-search](https://github.com/gtaiyou24/ml-image-search): 画像検索
@@ -25,7 +28,7 @@ WIP
  - [ml-nlp](https://github.com/gtaiyou24/ml-nlp): 自然言語処理
  - [recommender](https://github.com/gtaiyou24/recommender): 推薦システム
 
-### DEV系
+## DEV系
 
  - [dev-ddd](https://github.com/gtaiyou24/dev-ddd) : ドメイン駆動設計
  - [dev-web-application](https://github.com/gtaiyou24/dev-web-application) : Webアプリケーション開発
