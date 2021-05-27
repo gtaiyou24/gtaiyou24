@@ -1,8 +1,8 @@
 # About Me
 
 <p align="left"> 
-  <a href="https://github.com/SuguruOoki/SuguruOoki/">
-    <img src="https://komarev.com/ghpvc/?username=SuguruOoki" alt="SuguruOoki" />
+  <a href="https://github.com/gtaiyou24/gtaiyou24/">
+    <img src="https://komarev.com/ghpvc/?username=gtaiyou24" alt="gtaiyou24" />
   </a>
 </p>
 
