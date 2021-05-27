@@ -23,7 +23,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="田村大耀" height="30" width="30" data-canonical-src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" style="max-width:100%;">
   </a>
   <a href="">
-    <img src="https://d1dlw0u96vqtxd.cloudfront.net/images/home/brand_assets/mark-wantedly@2x.png" alt="田村大耀" height="30" width="30" data-canonical-src="https://d1dlw0u96vqtxd.cloudfront.net/images/home/brand_assets/mark-wantedly@2x.png" style="max-width:100%;">
+    <img src="https://d1dlw0u96vqtxd.cloudfront.net/images/home/brand_assets/mark-wantedly@2x.png" alt="田村大耀" height="30" width="43" data-canonical-src="https://d1dlw0u96vqtxd.cloudfront.net/images/home/brand_assets/mark-wantedly@2x.png" style="max-width:100%;">
   </a>
 </p>
 
