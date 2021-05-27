@@ -42,7 +42,7 @@
 
 ## ファッション
 
-WIP
+coming soon
 
 ## ML系
 
