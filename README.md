@@ -28,8 +28,7 @@
 </p>
 
 # Portfolio
-## アルゴリズムトレード
-暗号通貨の自動売買システム
+## 暗号通貨の自動売買システム
 
  - [market-data-curator](https://github.com/gtaiyou24/market-data-curator) : 市場データを収集するシステム
  - [feature-analysts](https://github.com/gtaiyou24/feature-analysts) : 市場データを特徴量や予測値など情報のあるシグナルに変換するシステム
