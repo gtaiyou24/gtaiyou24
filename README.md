@@ -27,9 +27,6 @@
   </a>
 </p>
 
- - [wantedly](https://www.wantedly.com/users/17839637)
- - [linkedin](https://www.linkedin.com/in/大耀-田村-a5a028aa)
-
 # Portfolio
 ## アルゴリズムトレード
 暗号通貨の自動売買システム
