@@ -25,6 +25,9 @@
   <a href="https://www.wantedly.com/users/17839637">
     <img src="https://d1dlw0u96vqtxd.cloudfront.net/images/home/brand_assets/mark-wantedly@2x.png" alt="田村大耀" height="30" width="43" data-canonical-src="https://d1dlw0u96vqtxd.cloudfront.net/images/home/brand_assets/mark-wantedly@2x.png" style="max-width:100%;">
   </a>
+  <a href="https://twitter.com/tm_taiyo">
+    <img src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" alt="田村大耀" height="30" width="43" data-canonical-src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" style="max-width:100%;">
+  </a>
 </p>
 
 # Portfolio
