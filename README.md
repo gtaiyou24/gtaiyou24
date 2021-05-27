@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=gtaiyou24" alt="gtaiyou24" />
   </a>
   <a href="http://twitter.com/tm_taiyo">
-    <img height="20" src="https://img.shields.io/twitter/follow/gurusu_program?label=Twitter&logo=twitter&style=flat" />
+    <img height="20" src="https://img.shields.io/twitter/follow/tm_taiyo?label=Twitter&logo=twitter&style=flat" />
   </a>
 </p>
 
