@@ -18,6 +18,12 @@
   </a>
 </p>
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/%E5%A4%A7%E8%80%80-%E7%94%B0%E6%9D%91-a5a028aa/">
+    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="田村大耀" height="30" width="30" data-canonical-src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" style="max-width:100%;">
+  </a>
+</p>
+
  - [wantedly](https://www.wantedly.com/users/17839637)
  - [linkedin](https://www.linkedin.com/in/大耀-田村-a5a028aa)
 
