@@ -16,7 +16,7 @@
 
 ## クローリングシステム
 
- - [epic-crawler](https://github.com/gtaiyou24/epic-crawler) : クローラー
+ - [epic-crawler](https://github.com/gtaiyou24/epic-crawler) : クローリング/スクレイピング/データ連携を行うシステム
 
 ## ファッション
 
