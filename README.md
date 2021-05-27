@@ -9,10 +9,10 @@
 ## アルゴリズムトレード
 暗号通貨の自動売買システム
 
- - [market-data-curator](https://github.com/gtaiyou24/market-data-curator) : 市場データを収集するプログラム
- - [feature-analysts](https://github.com/gtaiyou24/feature-analysts) : rawデータを特徴量や予測値など情報のあるシグナルに変換するプログラム
+ - [market-data-curator](https://github.com/gtaiyou24/market-data-curator) : 市場データを収集するシステム
+ - [feature-analysts](https://github.com/gtaiyou24/feature-analysts) : 市場データを特徴量や予測値など情報のあるシグナルに変換するシステム
  - [strategist](https://github.com/gtaiyou24/strategist) : 情報のある特徴量を実際の投資アルゴリズムに変換する
- - [asset-manager](https://github.com/gtaiyou24/market-data-curator) : アルゴリズム戦略をもとに取引を行うプログラム
+ - [asset-manager](https://github.com/gtaiyou24/market-data-curator) : アルゴリズム戦略をもとに取引を行うシステム
 
 ## クローリングシステム
 
