@@ -7,7 +7,7 @@
   <a href="http://twitter.com/tm_taiyo">
     <img height="20" src="https://img.shields.io/twitter/follow/tm_taiyo?label=Twitter&logo=twitter&style=flat" />
   </a>
-    <a href="https://github.com/gtaiyou24">
+  <a href="https://github.com/gtaiyou24">
     <img height="20" src="https://img.shields.io/github/followers/gtaiyou24?label=follow&logo=github&style=flat" />
   </a>
   <a href="http://qiita.com/gtaiyou24">
