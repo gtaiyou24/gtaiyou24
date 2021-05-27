@@ -46,7 +46,7 @@ coming soon
 
 ## ML系
 
- - [ml-algorithm](https://github.com/gtaiyou24/ml-algorithm): 機械学習/統計
+ - [ml-algorithm](https://github.com/gtaiyou24/ml-algorithm): 機械学習/統計全般
  - [ml-image-search](https://github.com/gtaiyou24/ml-image-search): 画像検索
  - [ml-image-recognition](https://github.com/gtaiyou24/ml-image-recognition): 画像認識
  - [ml-nlp](https://github.com/gtaiyou24/ml-nlp): 自然言語処理
