@@ -41,7 +41,9 @@
  - [epic-crawler](https://github.com/gtaiyou24/epic-crawler) : クローリング/スクレイピング/データ連携を行うシステム
 
 ## ファッション
+coming soon
 
+## 家事
 coming soon
 
 ## ML系
