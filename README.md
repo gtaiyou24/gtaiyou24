@@ -33,10 +33,12 @@
 # Portfolio
 ## 暗号通貨の自動売買システム
 
- - [market-data-curator](https://github.com/gtaiyou24/market-data-curator) : 市場データを収集するシステム
- - \[private\] [feature-analysts](https://github.com/gtaiyou24/feature-analysts) : 市場データを指標や予測値など情報のあるシグナルに変換するシステム
- - \[private\] [strategist](https://github.com/gtaiyou24/strategist) : シグナルを実際の投資アルゴリズムに変換する
- - \[private\] [asset-trader](https://github.com/gtaiyou24/asset-trader) : アルゴリズム戦略をもとに資産取引を行うシステム
+| リポジトリ | 説明 |
+|:------:|:-----|
+| [market-data-curator](https://github.com/gtaiyou24/market-data-curator) | 市場データを収集するシステム |
+| [feature-analysts](https://github.com/gtaiyou24/feature-analysts) | 市場データを指標や予測値など情報のあるシグナルに変換するシステム |
+| [strategist](https://github.com/gtaiyou24/strategist) | シグナルを実際の投資アルゴリズムに変換する |
+| \[private\] [asset-trader](https://github.com/gtaiyou24/asset-trader) | アルゴリズム戦略をもとに資産取引を行うシステム |
 
 ## クローリングシステム
 
@@ -50,18 +52,22 @@ coming soon
 
 ## ML系
 
- - [ml-algorithm](https://github.com/gtaiyou24/ml-algorithm): 機械学習/統計全般
- - [ml-image-search](https://github.com/gtaiyou24/ml-image-search): 画像検索
- - [ml-image-recognition](https://github.com/gtaiyou24/ml-image-recognition): 画像認識
- - [ml-nlp](https://github.com/gtaiyou24/ml-nlp): 自然言語処理
- - [recommender](https://github.com/gtaiyou24/recommender): 推薦システム
+| リポジトリ | 説明 |
+|:------:|:-----|
+| [ml-algorithm](https://github.com/gtaiyou24/ml-algorithm) | 機械学習/統計全般 |
+| [ml-image-search](https://github.com/gtaiyou24/ml-image-search) | 画像検索 |
+| [ml-image-recognition](https://github.com/gtaiyou24/ml-image-recognition) | 画像認識 |
+| [ml-nlp](https://github.com/gtaiyou24/ml-nlp) | 自然言語処理 |
+| [recommender](https://github.com/gtaiyou24/recommender) | 推薦システム |
 
 ## DEV系
 
- - [dev-ddd](https://github.com/gtaiyou24/dev-ddd) : ドメイン駆動設計
- - [dev-web-application](https://github.com/gtaiyou24/dev-web-application) : Webアプリケーション開発
- - [dev-mobile-application](https://github.com/gtaiyou24/dev-mobile-application) : モバイルアプリケーション開発
- - [dev-web-api](https://github.com/gtaiyou24/dev-web-api) : Web API
- - [dev-db](https://github.com/gtaiyou24/dev-db) : DB
- - [dev-aws](https://github.com/gtaiyou24/dev-aws) : AWS
- - [dev-Linux](https://github.com/gtaiyou24/dev-Linux) : Linux
+| リポジトリ | 説明 |
+|:------:|:-----|
+| [dev-ddd](https://github.com/gtaiyou24/dev-ddd) | ドメイン駆動設計 |
+| [dev-web-application](https://github.com/gtaiyou24/dev-web-application) | Webアプリケーション開発 |
+| [dev-mobile-application](https://github.com/gtaiyou24/dev-mobile-application) | モバイルアプリケーション開発 |
+| [dev-web-api](https://github.com/gtaiyou24/dev-web-api) | Web API |
+| [dev-db](https://github.com/gtaiyou24/dev-db) | DB |
+| [dev-aws](https://github.com/gtaiyou24/dev-aws) | AWS |
+| [dev-Linux](https://github.com/gtaiyou24/dev-Linux) | Linux |
