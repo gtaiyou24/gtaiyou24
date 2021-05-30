@@ -49,10 +49,10 @@
 
  - [epic-crawler](https://github.com/gtaiyou24/epic-crawler) : クローリング/スクレイピング/データ連携を行うシステム
 
-## ファッション
+## ファッションコーディネート提案アプリ
 coming soon
 
-## 家事
+## 冷蔵庫内の食べ物を管理するアプリ
 coming soon
 
 ## ML系
