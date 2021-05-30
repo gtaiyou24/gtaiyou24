@@ -36,7 +36,7 @@
  - [market-data-curator](https://github.com/gtaiyou24/market-data-curator) : 市場データを収集するシステム
  - [feature-analysts](https://github.com/gtaiyou24/feature-analysts) : 市場データを指標や予測値など情報のあるシグナルに変換するシステム
  - [strategist](https://github.com/gtaiyou24/strategist) : シグナルを実際の投資アルゴリズムに変換する
- - [asset-trader](https://github.com/gtaiyou24/asset-trader) : アルゴリズム戦略をもとに資産取引を行うシステム
+ - \[private\] [asset-trader](https://github.com/gtaiyou24/asset-trader) : アルゴリズム戦略をもとに資産取引を行うシステム
 
 ## クローリングシステム
 
