@@ -49,9 +49,9 @@
 
 | リポジトリ | 説明 |
 |:------:|:-----|
-| [epic-crawler](https://github.com/gtaiyou24/epic-crawler) | クローリングを行うシステム |
-| [epic-scraper](https://github.com/gtaiyou24/epic-scraper) | スクレイピングを行うシステム |
-| [epic-loader](https://github.com/gtaiyou24/epic-loader) | データ連携を行うシステム |
+| [epic-crawler](https://github.com/gtaiyou24/epic-crawler) | サイトをクローリングし、htmlページをダウンロードするシステム |
+| [epic-scraper](https://github.com/gtaiyou24/epic-scraper) | ダウンロードしたhtmlページをスクレイピングしてデータを抽出するシステム |
+| [epic-loader](https://github.com/gtaiyou24/epic-loader) | 抽出されたデータの連携を行うシステム |
 
 ## テックブログキュレーションサイト
 coming soon
