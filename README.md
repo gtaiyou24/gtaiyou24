@@ -47,7 +47,11 @@
 
 ## クローリングシステム
 
- - [epic-crawler](https://github.com/gtaiyou24/epic-crawler) : クローリング/スクレイピング/データ連携を行うシステム
+| リポジトリ | 説明 |
+|:------:|:-----|
+| [epic-crawler](https://github.com/gtaiyou24/epic-crawler) | クローリングを行うシステム |
+| [epic-scraper](https://github.com/gtaiyou24/epic-scraper) | スクレイピングを行うシステム |
+| [epic-loader](https://github.com/gtaiyou24/epic-loader) | データ連携を行うシステム |
 
 ## テックブログキュレーションサイト
 coming soon
