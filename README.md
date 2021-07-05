@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/%E5%A4%A7%E8%80%80-%E7%94%B0%E6%9D%91-a5a028aa/">
     <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="田村大耀" height="30" width="30" data-canonical-src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" style="max-width:100%;">
   </a>
-  <a href="https://www.wantedly.com/users/17839637">
+  <a href="https://www.wantedly.com/id/taiyo_tamura">
     <img src="https://d1dlw0u96vqtxd.cloudfront.net/images/home/brand_assets/mark-wantedly@2x.png" alt="田村大耀" height="30" width="43" data-canonical-src="https://d1dlw0u96vqtxd.cloudfront.net/images/home/brand_assets/mark-wantedly@2x.png" style="max-width:100%;">
   </a>
   <a href="https://twitter.com/tm_taiyo">
