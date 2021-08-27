@@ -53,8 +53,14 @@
 | [epic-scraper](https://github.com/gtaiyou24/epic-scraper) | ダウンロードしたhtmlページをスクレイピングしてデータを抽出するシステム |
 | [epic-loader](https://github.com/gtaiyou24/epic-loader) | 抽出されたデータの連携を行うシステム |
 
-## テックブログキュレーションサイト
-coming soon
+
+## テックブログ検索システム
+各IT企業が投稿しているテックブログを収集し、検索を行うサービスです。
+
+| リポジトリ | 説明 |
+|:------:|:-----|
+| [techosity-searcher](https://github.com/gtaiyou24/techosity-searcher) | 検索エンジン |
+| [techosity-indexer](https://github.com/gtaiyou24/techosity-indexer) | 指定されたデータをインデックスするプログラム |
 
 ## ファッションコーディネート提案アプリ
 coming soon
