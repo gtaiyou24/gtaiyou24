@@ -62,21 +62,42 @@
 | [techosity-searcher](https://github.com/gtaiyou24/techosity-searcher) | 検索エンジン |
 | [techosity-indexer](https://github.com/gtaiyou24/techosity-indexer) | 指定されたデータをインデックスするプログラム |
 
-## ファッションコーディネート提案アプリ
+## ファッションアイテム検索アプリ
+coming soon
+
+## ファッションコーディネートの生成
 coming soon
 
 ## 冷蔵庫内の食材を管理するアプリ
 coming soon
 
-## ML系
+## 画像検索
+cifarを使って、画像検索のシステムを開発しました。
 
-| リポジトリ | 説明 |
-|:------:|:-----|
-| [ml-algorithm](https://github.com/gtaiyou24/ml-algorithm) | 機械学習/統計全般 |
-| [ml-image-search](https://github.com/gtaiyou24/ml-image-search) | 画像検索 |
-| [ml-image-recognition](https://github.com/gtaiyou24/ml-image-recognition) | 画像認識 |
-| [ml-nlp](https://github.com/gtaiyou24/ml-nlp) | 自然言語処理 |
-| [recommender](https://github.com/gtaiyou24/recommender) | 推薦システム |
+[ml-image-search](https://github.com/gtaiyou24/ml-image-search)
+
+## 機械学習/統計全般
+機械学習/統計全般の自作パッケージをまとめたリポジトリです。
+
+ - 分類
+ - 回帰
+ - クラスタリング
+ - 生存時間解析
+ - 一般化線形モデル
+ - 計量経済学
+ - 時系列解析
+ - ...
+
+[ml-algorithm](https://github.com/gtaiyou24/ml-algorithm)
+
+## 自然言語処理
+[ml-nlp](https://github.com/gtaiyou24/ml-nlp)
+
+## 画像認識
+[ml-image-recognition](https://github.com/gtaiyou24/ml-image-recognition)
+
+## 推薦システム
+[recommender](https://github.com/gtaiyou24/recommender)
 
 ## DEV系
 
