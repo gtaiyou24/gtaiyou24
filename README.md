@@ -63,7 +63,12 @@
 | [techosity-indexer](https://github.com/gtaiyou24/techosity-indexer) | 指定されたデータをインデックスするプログラム |
 
 ## ファッションアイテム検索アプリ
-coming soon
+モール型のショッピングサイトに出店していないDHOLIC,LOCONDO,GRLなどの自社ブランドで販売している商品を収集し、一括で検索できるサービス。
+
+| リポジトリ | 説明 |
+|:--------:|:-----|
+| [GreeedyiOS](https://github.com/gtaiyou24/GreeedyiOS) | iOSアプリ |
+| coming soon | バックエンドアプリケーション |
 
 ## ファッションコーディネートの生成
 coming soon
