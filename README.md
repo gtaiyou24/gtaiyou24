@@ -55,7 +55,7 @@
  - 会社/組織(company/organization) : coming soon
 
 | リポジトリ | 説明 |
-|:------:|:-----|
+|:---------|:-----|
 | [epic-crawler](https://github.com/gtaiyou24/epic-crawler) | Webサイトをクローリングし、htmlページをダウンロードするシステム |
 | \[Secret\] [epic-scraper](https://github.com/gtaiyou24/epic-scraper) | ダウンロードしたhtmlページからデータをスクレイピングするシステム |
 | \[Secret\] [epic-robot-management](https://github.com/gtaiyou24/epic-robot-management) | Epic Robotの管理ツール |
@@ -64,7 +64,7 @@
 各IT企業が投稿しているテックブログを収集し、検索を行うサービスです。
 
 | リポジトリ | 説明 |
-|:------:|:-----|
+|:-------|:-----|
 | [techosity-searcher](https://github.com/gtaiyou24/techosity-searcher) | 検索エンジン |
 | [techosity-indexer](https://github.com/gtaiyou24/techosity-indexer) | 指定されたデータをインデックスするプログラム |
 
