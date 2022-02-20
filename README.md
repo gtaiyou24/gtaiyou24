@@ -51,7 +51,7 @@
 |:------:|:-----|
 | [epic-crawler](https://github.com/gtaiyou24/epic-crawler) | Webサイトをクローリングし、htmlページをダウンロードするシステム |
 | [epic-scraper](https://github.com/gtaiyou24/epic-scraper) | ダウンロードしたhtmlページからデータをスクレイピングするシステム |
-
+| [epic-robot-management](https://github.com/gtaiyou24/epic-robot-management) | Epic Robotの管理ツール |
 
 ## Techosity - テックブログ検索アプリ
 各IT企業が投稿しているテックブログを収集し、検索を行うサービスです。
