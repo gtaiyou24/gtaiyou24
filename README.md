@@ -45,16 +45,15 @@
 | \[Private\] [strategist](https://github.com/gtaiyou24/strategist) | シグナルを実際の投資アルゴリズムに変換する |
 | \[Private\] [asset-trader](https://github.com/gtaiyou24/asset-trader) | アルゴリズム戦略をもとに資産取引を行うシステム |
 
-## クローリングシステム
+## Epic Robot - 汎用型クローリングシステム
 
 | リポジトリ | 説明 |
 |:------:|:-----|
-| [epic-crawler](https://github.com/gtaiyou24/epic-crawler) | サイトをクローリングし、htmlページをダウンロードするシステム |
-| [epic-scraper](https://github.com/gtaiyou24/epic-scraper) | ダウンロードしたhtmlページをスクレイピングしてデータを抽出するシステム |
-| [epic-loader](https://github.com/gtaiyou24/epic-loader) | 抽出されたデータの連携を行うシステム |
+| [epic-crawler](https://github.com/gtaiyou24/epic-crawler) | Webサイトをクローリングし、htmlページをダウンロードするシステム |
+| [epic-scraper](https://github.com/gtaiyou24/epic-scraper) | ダウンロードしたhtmlページからデータをスクレイピングするシステム |
 
 
-## テックブログ検索アプリ
+## Techosity - テックブログ検索アプリ
 各IT企業が投稿しているテックブログを収集し、検索を行うサービスです。
 
 | リポジトリ | 説明 |
@@ -62,7 +61,7 @@
 | [techosity-searcher](https://github.com/gtaiyou24/techosity-searcher) | 検索エンジン |
 | [techosity-indexer](https://github.com/gtaiyou24/techosity-indexer) | 指定されたデータをインデックスするプログラム |
 
-## ファッションアイテム検索アプリ
+## lim. - ファッションアイテム検索アプリ
 モール型のショッピングサイトに出店していないDHOLIC,LOCONDO,GRLなどの自社ブランドで販売している商品を収集し、一括で検索できるサービス。
 
 | リポジトリ | 説明 |
