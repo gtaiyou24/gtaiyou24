@@ -41,17 +41,24 @@
 | リポジトリ | 説明 |
 |:------:|:-----|
 | [market-data-curator](https://github.com/gtaiyou24/market-data-curator) | 市場データを収集するシステム |
-| \[Private\] [feature-analysts](https://github.com/gtaiyou24/feature-analysts) | 市場データを指標や予測値など情報のあるシグナルに変換するシステム |
-| \[Private\] [strategist](https://github.com/gtaiyou24/strategist) | シグナルを実際の投資アルゴリズムに変換する |
-| \[Private\] [asset-trader](https://github.com/gtaiyou24/asset-trader) | アルゴリズム戦略をもとに資産取引を行うシステム |
+| \[Secret\] [feature-analysts](https://github.com/gtaiyou24/feature-analysts) | 市場データを指標や予測値など情報のあるシグナルに変換するシステム |
+| \[Secret\] [strategist](https://github.com/gtaiyou24/strategist) | シグナルを実際の投資アルゴリズムに変換する |
+| \[Secret\] [asset-trader](https://github.com/gtaiyou24/asset-trader) | アルゴリズム戦略をもとに資産取引を行うシステム |
 
 ## Epic Robot - 汎用型クローリングシステム
+各Webサイトからデータを収集する汎用型のクローリングシステム。各サイトのデザインに依存せずに、適切なデータを自動的に抽出できます。
+
+収集可能なデータ
+
+ - 記事(article) : タイトル、記事本文、更新日、サムネイル画像、meta情報、ページURL
+ - 商品(item) : 商品名、ブランド名、価格、商品画像一覧、レビュー一覧、ページURL
+ - 会社/組織(company/organization) : coming soon
 
 | リポジトリ | 説明 |
 |:------:|:-----|
 | [epic-crawler](https://github.com/gtaiyou24/epic-crawler) | Webサイトをクローリングし、htmlページをダウンロードするシステム |
-| [epic-scraper](https://github.com/gtaiyou24/epic-scraper) | ダウンロードしたhtmlページからデータをスクレイピングするシステム |
-| [epic-robot-management](https://github.com/gtaiyou24/epic-robot-management) | Epic Robotの管理ツール |
+| \[Secret\] [epic-scraper](https://github.com/gtaiyou24/epic-scraper) | ダウンロードしたhtmlページからデータをスクレイピングするシステム |
+| \[Secret\] [epic-robot-management](https://github.com/gtaiyou24/epic-robot-management) | Epic Robotの管理ツール |
 
 ## Techosity - テックブログ検索アプリ
 各IT企業が投稿しているテックブログを収集し、検索を行うサービスです。
