@@ -74,7 +74,7 @@
 | リポジトリ | 説明 |
 |:--------:|:-----|
 | [GreeedyiOS](https://github.com/gtaiyou24/GreeedyiOS) | iOSアプリ |
-| [greeedy-manager](https://github.com/gtaiyou24/greeedy-manager) | バックエンドアプリケーション |
+| [greeedy-searcher](https://github.com/gtaiyou24/greeedy-searcher) | バックエンドアプリケーション |
 
 ## ファッションコーディネートの生成
 coming soon
