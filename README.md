@@ -68,7 +68,7 @@
 | [techosity-searcher](https://github.com/gtaiyou24/techosity-searcher) | 検索エンジン |
 | [techosity-indexer](https://github.com/gtaiyou24/techosity-indexer) | 指定されたデータをインデックスするプログラム |
 
-## lim. - ファッションアイテム検索アプリ
+## Greeedy - ファッションアイテム検索アプリ
 モール型のショッピングサイトに出店していないDHOLIC,LOCONDO,GRLなどの自社ブランドで販売している商品を収集し、一括で検索できるサービス。
 
 | リポジトリ | 説明 |
