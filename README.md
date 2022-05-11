@@ -45,7 +45,7 @@
 | \[Secret\] [strategist](https://github.com/gtaiyou24/strategist) | シグナルを実際の投資アルゴリズムに変換する |
 | \[Secret\] [asset-trader](https://github.com/gtaiyou24/asset-trader) | アルゴリズム戦略をもとに資産取引を行うシステム |
 
-## Epic ot - 汎用型クローリングシステム
+## Epic Bot - 汎用型クローリングシステム
 各Webサイトからデータを収集する汎用型のクローリングシステム。各サイトのデザインに依存せずに、適切なデータを自動的に抽出できます。
 
 収集可能なデータ
