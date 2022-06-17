@@ -60,6 +60,11 @@
 | \[Secret\] [epic-scraper](https://github.com/gtaiyou24/epic-scraper) | ダウンロードしたhtmlページからデータをスクレイピングするシステム |
 | \[Secret\] [epic-robot-management](https://github.com/gtaiyou24/epic-robot-management) | Epic Robotの管理ツール |
 
+## Slf4py
+Slf4jのPython版です。デコレータを付与することでloggerを使えます。
+
+[slf4py](https://github.com/gtaiyou24/slf4py)
+
 ## Techosity - テックブログ検索アプリ
 各IT企業が投稿しているテックブログを収集し、検索を行うサービスです。
 
