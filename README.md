@@ -33,7 +33,7 @@
 # 📝 ポートフォリオ
 ## <img src="https://seeklogo.com/images/P/pypi-logo-5B953CE804-seeklogo.com.png" height="25" width="25" style="max-width:100%;"> PyPi
 
-| Package | Description | 🔗Link |
+| Package | Description | 🔗 Link |
 |:-------:|:------------|:-------|
 | slf4py  | Slf4jのPython版です。クラスにデコレータを付与するだけでログを出力できます。 | ・[GitHub](https://github.com/gtaiyou24/slf4py)<br>・[PyPI](https://pypi.org/project/slf4py/) |
 | ho-cho | 自然言語処理を行うためのライブラリ。 | ・[GitHub](https://github.com/gtaiyou24/ho-cho)<br>・[PyPi](https://pypi.org/project/ho-cho/) |
