@@ -65,14 +65,6 @@ Slf4jのPython版です。デコレータを付与することでloggerを使え
 
 [slf4py](https://github.com/gtaiyou24/slf4py)
 
-## Techosity - テックブログ検索アプリ
-各IT企業が投稿しているテックブログを収集し、検索を行うサービスです。
-
-| リポジトリ | 説明 |
-|:-------|:-----|
-| [techosity-searcher](https://github.com/gtaiyou24/techosity-searcher) | 検索エンジン |
-| [techosity-indexer](https://github.com/gtaiyou24/techosity-indexer) | 指定されたデータをインデックスするプログラム |
-
 ## Greeedy - ファッションアイテム検索アプリ
 モール型のショッピングサイトに出店していないDHOLIC,LOCONDO,GRLなどの自社ブランドで販売している商品を収集し、一括で検索できるサービス。
 
