@@ -31,21 +31,26 @@
 </p>
 
 # Portfolio
-## 暗号通貨の自動売買システム
+## <img src="https://seeklogo.com/images/P/pypi-logo-5B953CE804-seeklogo.com.png" height="25" width="25" style="max-width:100%;"> PyPi
+### Slf4py
+Slf4jのPython版です。デコレータを付与することでloggerを使えます。
 
-投資戦略をもとに暗号通貨の投資を行うシステム群。<br>
-2021年6月現在は主要暗号通貨に限定して取引を行っていますが、今後は為替や株式にも範囲を広げる予定です。
+[slf4py](https://github.com/gtaiyou24/slf4py)
 
-本システムはマイクロサービスアーキテクチャ、DDDを採択しており、以下のリポジトリから構成されています。
+### ho-cho
+自然言語処理を行うためのライブラリ
 
-| リポジトリ | 説明 |
-|:------:|:-----|
-| [market-data-curator](https://github.com/gtaiyou24/market-data-curator) | 市場データを収集するシステム |
-| \[Secret\] [feature-analysts](https://github.com/gtaiyou24/feature-analysts) | 市場データを指標や予測値など情報のあるシグナルに変換するシステム |
-| \[Secret\] [strategist](https://github.com/gtaiyou24/strategist) | シグナルを実際の投資アルゴリズムに変換する |
-| \[Secret\] [asset-trader](https://github.com/gtaiyou24/asset-trader) | アルゴリズム戦略をもとに資産取引を行うシステム |
+ - [GitHub](https://github.com/gtaiyou24/ho-cho)
+ - [PyPi](https://pypi.org/project/ho-cho/)
 
-## Epic Bot - 汎用型クローリングシステム
+### di4injector
+DIインジェクター
+
+ - [github](https://github.com/gtaiyou24/di4injector)
+
+## <img src="https://2.bp.blogspot.com/-Gp2_6OZJ1FQ/XASwZmJF9yI/AAAAAAABQZ0/C8dUDl0e_uEWbDjvwNAo8DArlJX4vIaFwCLcBGAs/s800/computer_programming_man.png" height="25" width="25" style="max-width:100%;"> My Project
+
+### Epic Bot - 汎用型クローリングシステム
 各Webサイトからデータを収集する汎用型のクローリングシステム。各サイトのデザインに依存せずに、適切なデータを自動的に抽出できます。
 
 収集可能なデータ
@@ -60,11 +65,6 @@
 | \[Secret\] [epic-scraper](https://github.com/gtaiyou24/epic-scraper) | ダウンロードしたhtmlページからデータをスクレイピングするシステム |
 | \[Secret\] [epic-robot-management](https://github.com/gtaiyou24/epic-robot-management) | Epic Robotの管理ツール |
 
-## Slf4py
-Slf4jのPython版です。デコレータを付与することでloggerを使えます。
-
-[slf4py](https://github.com/gtaiyou24/slf4py)
-
 ## Greeedy - ファッションアイテム検索アプリ
 モール型のショッピングサイトに出店していないDHOLIC,LOCONDO,GRLなどの自社ブランドで販売している商品を収集し、一括で検索できるサービス。
 
@@ -73,15 +73,29 @@ Slf4jのPython版です。デコレータを付与することでloggerを使え
 | [GreeedyiOS](https://github.com/gtaiyou24/GreeedyiOS) | iOSアプリ |
 | [greeedy-searcher](https://github.com/gtaiyou24/greeedy-searcher) | バックエンドアプリケーション |
 
-## ファッションコーディネートの生成
-coming soon
+### 暗号通貨の自動売買システム
 
-## 画像検索
+投資戦略をもとに暗号通貨の投資を行うシステム群。<br>
+2021年6月現在は主要暗号通貨に限定して取引を行っていますが、今後は為替や株式にも範囲を広げる予定です。
+
+本システムはマイクロサービスアーキテクチャ、DDDを採択しており、以下のリポジトリから構成されています。
+
+| リポジトリ | 説明 |
+|:------:|:-----|
+| [market-data-curator](https://github.com/gtaiyou24/market-data-curator) | 市場データを収集するシステム |
+| \[Secret\] [feature-analysts](https://github.com/gtaiyou24/feature-analysts) | 市場データを指標や予測値など情報のあるシグナルに変換するシステム |
+| \[Secret\] [strategist](https://github.com/gtaiyou24/strategist) | シグナルを実際の投資アルゴリズムに変換する |
+| \[Secret\] [asset-trader](https://github.com/gtaiyou24/asset-trader) | アルゴリズム戦略をもとに資産取引を行うシステム |
+
+
+## <img src="https://1.bp.blogspot.com/-0wXC6MMwTqs/Xrea7O9QSuI/AAAAAAABY1U/apyEhwKBcTws66j3jFVmQUD0dMvIO7GRwCNcBGAsYHQ/s1600/study_school_jugyou_boy.png" height="25" width="25" style="max-width:100%;"> Learn
+
+### 画像検索
 cifarを使って、画像検索のシステムを開発しました。
 
 [ml-image-search](https://github.com/gtaiyou24/ml-image-search)
 
-## 機械学習/統計全般
+### 機械学習/統計全般
 機械学習/統計全般の自作パッケージをまとめたリポジトリです。
 
  - 分類
@@ -95,16 +109,13 @@ cifarを使って、画像検索のシステムを開発しました。
 
 [ml-algorithm](https://github.com/gtaiyou24/ml-algorithm)
 
-## 自然言語処理
+### 自然言語処理
 [ml-nlp](https://github.com/gtaiyou24/ml-nlp)
 
-## 画像認識
+### 画像認識
 [ml-image-recognition](https://github.com/gtaiyou24/ml-image-recognition)
 
-## 推薦システム
-[recommender](https://github.com/gtaiyou24/recommender)
-
-## DEV系
+### DEV系
 
 | リポジトリ | 説明 |
 |:------:|:-----|
