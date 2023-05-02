@@ -30,25 +30,16 @@
   </a>
 </p>
 
-# Portfolio
+# 📝 ポートフォリオ
 ## <img src="https://seeklogo.com/images/P/pypi-logo-5B953CE804-seeklogo.com.png" height="25" width="25" style="max-width:100%;"> PyPi
-### Slf4py
-Slf4jのPython版です。デコレータを付与することでloggerを使えます。
 
-[slf4py](https://github.com/gtaiyou24/slf4py)
+| Package | Description | 🔗Link |
+|:-------:|:------------|:-------|
+| slf4py  | Slf4jのPython版です。クラスにデコレータを付与するだけでログを出力できます。 | ・[GitHub](https://github.com/gtaiyou24/slf4py)<br>・[PyPI](https://pypi.org/project/slf4py/) |
+| ho-cho | 自然言語処理を行うためのライブラリ。 | ・[GitHub](https://github.com/gtaiyou24/ho-cho)<br>・[PyPi](https://pypi.org/project/ho-cho/) |
+| di4injector | DIインジェクター | ・[github](https://github.com/gtaiyou24/di4injector)<br>・[PyPi](https://pypi.org/project/di4injector/) |
 
-### ho-cho
-自然言語処理を行うためのライブラリ
-
- - [GitHub](https://github.com/gtaiyou24/ho-cho)
- - [PyPi](https://pypi.org/project/ho-cho/)
-
-### di4injector
-DIインジェクター
-
- - [github](https://github.com/gtaiyou24/di4injector)
-
-## <img src="https://2.bp.blogspot.com/-Gp2_6OZJ1FQ/XASwZmJF9yI/AAAAAAABQZ0/C8dUDl0e_uEWbDjvwNAo8DArlJX4vIaFwCLcBGAs/s800/computer_programming_man.png" height="25" width="25" style="max-width:100%;"> My Project
+## <img src="https://2.bp.blogspot.com/-Gp2_6OZJ1FQ/XASwZmJF9yI/AAAAAAABQZ0/C8dUDl0e_uEWbDjvwNAo8DArlJX4vIaFwCLcBGAs/s800/computer_programming_man.png" height="25" width="25" style="max-width:100%;"> 自作サービス
 
 ### Epic Bot - 汎用型クローリングシステム
 各Webサイトからデータを収集する汎用型のクローリングシステム。各サイトのデザインに依存せずに、適切なデータを自動的に抽出できます。
@@ -88,7 +79,7 @@ DIインジェクター
 | \[Secret\] [asset-trader](https://github.com/gtaiyou24/asset-trader) | アルゴリズム戦略をもとに資産取引を行うシステム |
 
 
-## <img src="https://1.bp.blogspot.com/-0wXC6MMwTqs/Xrea7O9QSuI/AAAAAAABY1U/apyEhwKBcTws66j3jFVmQUD0dMvIO7GRwCNcBGAsYHQ/s1600/study_school_jugyou_boy.png" height="25" width="25" style="max-width:100%;"> Learn
+## <img src="https://1.bp.blogspot.com/-0wXC6MMwTqs/Xrea7O9QSuI/AAAAAAABY1U/apyEhwKBcTws66j3jFVmQUD0dMvIO7GRwCNcBGAsYHQ/s1600/study_school_jugyou_boy.png" height="25" width="25" style="max-width:100%;"> 学習
 
 ### 画像検索
 cifarを使って、画像検索のシステムを開発しました。
