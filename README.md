@@ -31,7 +31,8 @@
 </p>
 
 # 📝 ポートフォリオ
-## <img src="https://seeklogo.com/images/P/pypi-logo-5B953CE804-seeklogo.com.png" height="25" width="25" style="max-width:100%;"> PyPi
+## <img src="https://1.bp.blogspot.com/-g439QYtwXMk/Whu2kS-_AJI/AAAAAAABIi8/Ay8vrFGXwtovJgRvtxV5EHi47pHbDOajwCLcBGAs/s400/seikou_banzai_man.png" height="25" width="25" style="max-width:100%;"> OSS
+### <img src="https://seeklogo.com/images/P/pypi-logo-5B953CE804-seeklogo.com.png" height="25" width="25" style="max-width:100%;"> PyPi
 
 | Package | Description | 🔗 Link |
 |:-------:|:------------|:-------|
