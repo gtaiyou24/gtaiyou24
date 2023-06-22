@@ -1,4 +1,4 @@
-# About Me
+# <img src="https://4.bp.blogspot.com/-lJvcMcl1bMo/VsGsNcaatHI/AAAAAAAA39g/XsJMvSAtF80/s400/kaisya_man.png" height="50" width="50" style="max-width:100%;"> About Me
 
 <p align="center"> 
   <a href="https://github.com/gtaiyou24/gtaiyou24/">
@@ -31,7 +31,7 @@
 </p>
 
 # 📝 ポートフォリオ
-## <img src="https://1.bp.blogspot.com/-g439QYtwXMk/Whu2kS-_AJI/AAAAAAABIi8/Ay8vrFGXwtovJgRvtxV5EHi47pHbDOajwCLcBGAs/s400/seikou_banzai_man.png" height="25" width="25" style="max-width:100%;"> OSS
+## <img src="https://1.bp.blogspot.com/-g439QYtwXMk/Whu2kS-_AJI/AAAAAAABIi8/Ay8vrFGXwtovJgRvtxV5EHi47pHbDOajwCLcBGAs/s400/seikou_banzai_man.png" height="40" width="40" style="max-width:100%;"> OSS
 ### <img src="https://seeklogo.com/images/P/pypi-logo-5B953CE804-seeklogo.com.png" height="25" width="25" style="max-width:100%;"> PyPi
 
 | Package | Description | 🔗 Link |
