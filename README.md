@@ -51,7 +51,7 @@
 | [epic-scraper](https://github.com/gtaiyou24/epic-scraper) | ダウンロードしたhtmlページからデータをスクレイピングするシステム |
 | [bot-management](https://github.com/gtaiyou24/epic-robot-management) | Epic Robotの管理ツール |
 
-## Greeedy - ファッションアイテム検索アプリ
+### Greeedy - ファッションアイテム検索アプリ
 モール型のショッピングサイトに出店していないDHOLIC,LOCONDO,GRLなどの自社ブランドで販売している商品を収集し、一括で検索できるサービス。
 
 | リポジトリ | 説明 |
@@ -59,7 +59,9 @@
 | [greeedy](https://github.com/gtaiyou24/greeedy) | バックエンドアプリケーション |
 | [iOS](https://github.com/gtaiyou24/Greeedy-iOS) | iOSアプリ |
 
-## Fashion AI - ファッションAI
+### Fashion AI - ファッションAI
+
+comming soon
 
 | リポジトリ | 説明 |
 |:---------|:-----|
