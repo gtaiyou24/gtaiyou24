@@ -31,8 +31,7 @@
 </p>
 
 # 📝 ポートフォリオ
-## <img src="https://1.bp.blogspot.com/-g439QYtwXMk/Whu2kS-_AJI/AAAAAAABIi8/Ay8vrFGXwtovJgRvtxV5EHi47pHbDOajwCLcBGAs/s400/seikou_banzai_man.png" height="40" width="40" style="max-width:100%;"> OSS
-### <img src="https://seeklogo.com/images/P/pypi-logo-5B953CE804-seeklogo.com.png" height="25" width="25" style="max-width:100%;"> PyPi
+## <img src="https://seeklogo.com/images/P/pypi-logo-5B953CE804-seeklogo.com.png" height="25" width="25" style="max-width:100%;"> PyPi
 
 | Package | Description | 🔗 Link |
 |:-------:|:------------|:-------|
@@ -47,9 +46,10 @@
 
 | リポジトリ | 説明 |
 |:---------|:-----|
+| [page-downloader](https://github.com/gtaiyou24/page-downloader) | Webページをダウンロードするシステム |
 | [epic-crawler](https://github.com/gtaiyou24/epic-crawler) | Webサイトをクローリングし、htmlページをダウンロードするシステム |
-| \[Secret\] [epic-scraper](https://github.com/gtaiyou24/epic-scraper) | ダウンロードしたhtmlページからデータをスクレイピングするシステム |
-| \[Secret\] [epic-robot-management](https://github.com/gtaiyou24/epic-robot-management) | Epic Robotの管理ツール |
+| [epic-scraper](https://github.com/gtaiyou24/epic-scraper) | ダウンロードしたhtmlページからデータをスクレイピングするシステム |
+| [bot-management](https://github.com/gtaiyou24/epic-robot-management) | Epic Robotの管理ツール |
 
 ## Greeedy - ファッションアイテム検索アプリ
 モール型のショッピングサイトに出店していないDHOLIC,LOCONDO,GRLなどの自社ブランドで販売している商品を収集し、一括で検索できるサービス。
@@ -58,3 +58,10 @@
 |:--------:|:-----|
 | [greeedy](https://github.com/gtaiyou24/greeedy) | バックエンドアプリケーション |
 | [iOS](https://github.com/gtaiyou24/Greeedy-iOS) | iOSアプリ |
+
+## Fashion AI - ファッションAI
+
+| リポジトリ | 説明 |
+|:---------|:-----|
+| fashion-image-analyzer | ファッション画像を解析し、カラーや画像タイプを予測するサービス |
+| fashion-image-searcher | ファッション画像検索サービス |
