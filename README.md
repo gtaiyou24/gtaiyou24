@@ -67,3 +67,4 @@ comming soon
 |:---------|:-----|
 | fashion-image-analyzer | ファッション画像を解析し、カラーや画像タイプを予測するサービス |
 | fashion-image-searcher | ファッション画像検索サービス |
+| ayame | ファッションコーディネートをするサービス |
