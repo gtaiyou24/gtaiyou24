@@ -17,7 +17,7 @@
 | [page-downloader](https://github.com/gtaiyou24/page-downloader) | Webページをダウンロードするシステム |
 | [epic-crawler](https://github.com/gtaiyou24/epic-crawler) | Webサイトをクローリングし、htmlページをダウンロードするシステム |
 | [epic-scraper](https://github.com/gtaiyou24/epic-scraper) | ダウンロードしたhtmlページからデータをスクレイピングするシステム |
-| [bot-management](https://github.com/gtaiyou24/epic-robot-management) | Epic Robotの管理ツール |
+| [bot-manager](https://github.com/gtaiyou24/bot-manager) | Epic Robotの管理ツール |
 
 ### 👚 Greeedy - ファッションアイテム検索アプリ
 モール型のショッピングサイトに出店していないDHOLIC,LOCONDO,GRLなどの自社ブランドで販売している商品を収集し、一括で検索できるサービス。
