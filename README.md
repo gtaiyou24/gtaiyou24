@@ -56,56 +56,5 @@
 
 | リポジトリ | 説明 |
 |:--------:|:-----|
-| [GreeedyiOS](https://github.com/gtaiyou24/GreeedyiOS) | iOSアプリ |
-| [greeedy-searcher](https://github.com/gtaiyou24/greeedy-searcher) | バックエンドアプリケーション |
-
-### 暗号通貨の自動売買システム
-
-投資戦略をもとに暗号通貨の投資を行うシステム群。<br>
-2021年6月現在は主要暗号通貨に限定して取引を行っていますが、今後は為替や株式にも範囲を広げる予定です。
-
-本システムはマイクロサービスアーキテクチャ、DDDを採択しており、以下のリポジトリから構成されています。
-
-| リポジトリ | 説明 |
-|:------:|:-----|
-| [market-data-curator](https://github.com/gtaiyou24/market-data-curator) | 市場データを収集するシステム |
-| \[Secret\] [feature-analysts](https://github.com/gtaiyou24/feature-analysts) | 市場データを指標や予測値など情報のあるシグナルに変換するシステム |
-| \[Secret\] [strategist](https://github.com/gtaiyou24/strategist) | シグナルを実際の投資アルゴリズムに変換する |
-| \[Secret\] [asset-trader](https://github.com/gtaiyou24/asset-trader) | アルゴリズム戦略をもとに資産取引を行うシステム |
-
-
-## <img src="https://1.bp.blogspot.com/-0wXC6MMwTqs/Xrea7O9QSuI/AAAAAAABY1U/apyEhwKBcTws66j3jFVmQUD0dMvIO7GRwCNcBGAsYHQ/s1600/study_school_jugyou_boy.png" height="25" width="25" style="max-width:100%;"> 学習
-
-### 画像検索
-cifarを使って、画像検索のシステムを開発しました。
-
-[ml-image-search](https://github.com/gtaiyou24/ml-image-search)
-
-### 機械学習/統計全般
-機械学習/統計全般の自作パッケージをまとめたリポジトリです。
-
- - 分類
- - 回帰
- - クラスタリング
- - 生存時間解析
- - 一般化線形モデル
- - 計量経済学
- - 時系列解析
- - ...
-
-[ml-algorithm](https://github.com/gtaiyou24/ml-algorithm)
-
-### 自然言語処理
-[ml-nlp](https://github.com/gtaiyou24/ml-nlp)
-
-### 画像認識
-[ml-image-recognition](https://github.com/gtaiyou24/ml-image-recognition)
-
-### DEV系
-
-| リポジトリ | 説明 |
-|:------:|:-----|
-| [dev-ddd](https://github.com/gtaiyou24/dev-ddd) | ドメイン駆動設計 |
-| [dev-db](https://github.com/gtaiyou24/dev-db) | DB |
-| [dev-aws](https://github.com/gtaiyou24/dev-aws) | AWS |
-| [dev-Linux](https://github.com/gtaiyou24/dev-Linux) | Linux |
+| [greeedy](https://github.com/gtaiyou24/greeedy) | バックエンドアプリケーション |
+| [iOS](https://github.com/gtaiyou24/Greeedy-iOS) | iOSアプリ |
