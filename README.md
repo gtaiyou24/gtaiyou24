@@ -27,6 +27,11 @@
 | [greeedy](https://github.com/gtaiyou24/greeedy) | バックエンドアプリケーション |
 | [iOS](https://github.com/gtaiyou24/Greeedy-iOS) | iOSアプリ |
 
+### 📈投資シミュレーション.com
+証券会社で購入できる株式、投資信託に投資した場合のシミュレーションを行えるサイト
+
+comming soon ....
+
 ### 👚 Fashion AI - ファッションAI
 
 comming soon
