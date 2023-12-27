@@ -30,7 +30,12 @@
 ### 📈投資シミュレーション.com
 証券会社で購入できる株式、投資信託に投資した場合のシミュレーションを行えるサイト
 
-comming soon ....
+https://toushi-simulator.com/
+
+<img width="1728" alt="スクリーンショット 2023-12-27 16 57 12" src="https://github.com/gtaiyou24/gtaiyou24/assets/10095500/9897e629-18dc-403d-83da-6cbc6bb036b1">
+
+<img width="1728" alt="スクリーンショット 2023-12-27 16 57 23" src="https://github.com/gtaiyou24/gtaiyou24/assets/10095500/f9eb06d5-9668-43f6-b5cc-7ba05268257d">
+
 
 ### 💰仮想通貨の自動売買ボット
 
