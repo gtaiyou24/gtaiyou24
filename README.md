@@ -27,7 +27,7 @@
 | [greeedy](https://github.com/gtaiyou24/greeedy) | バックエンドアプリケーション |
 | [iOS](https://github.com/gtaiyou24/Greeedy-iOS) | iOSアプリ |
 
-### <img src="https://toushi-simulator.com/logo.png"  height="25" width="25" style="max-width:100%;"> 投資シミュレーション.com
+### <img src="https://toushi-simulator.com/logo.png"  height="18" width="18" style="max-width:100%;"> 投資シミュレーション.com
 証券会社で購入できる株式、投資信託に投資した場合のシミュレーションを行えるサイト
 
 https://toushi-simulator.com/
