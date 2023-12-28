@@ -32,9 +32,9 @@
 
 https://toushi-simulator.com/
 
-<img width="500" alt="スクリーンショット 2023-12-27 16 57 12" src="https://github.com/gtaiyou24/gtaiyou24/assets/10095500/9897e629-18dc-403d-83da-6cbc6bb036b1">
+<img width="400" alt="スクリーンショット 2023-12-27 16 57 12" src="https://github.com/gtaiyou24/gtaiyou24/assets/10095500/9897e629-18dc-403d-83da-6cbc6bb036b1">
 
-<img width="500" alt="スクリーンショット 2023-12-27 16 57 23" src="https://github.com/gtaiyou24/gtaiyou24/assets/10095500/f9eb06d5-9668-43f6-b5cc-7ba05268257d">
+<img width="400" alt="スクリーンショット 2023-12-27 16 57 23" src="https://github.com/gtaiyou24/gtaiyou24/assets/10095500/f9eb06d5-9668-43f6-b5cc-7ba05268257d">
 
 
 ### 💰仮想通貨の自動売買ボット
