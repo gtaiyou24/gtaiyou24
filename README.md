@@ -1,3 +1,9 @@
+# プロフィール
+
+ - [Wantedly - 田村大耀](https://www.wantedly.com/id/taiyo_tamura)
+ - [X - 田村大耀](https://twitter.com/tm_taiyo)
+ - [LinkedIn - 田村大耀](www.linkedin.com/in/大耀-田村-a5a028aa)
+
 # 🌞 ポートフォリオ
 ## <img src="https://seeklogo.com/images/P/pypi-logo-5B953CE804-seeklogo.com.png" height="25" width="25" style="max-width:100%;"> PyPi
 
