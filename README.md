@@ -28,6 +28,8 @@
 ### 👚 Greeedy - ファッションアイテム検索アプリ
 モール型のショッピングサイトに出店していないDHOLIC,LOCONDO,GRLなどの自社ブランドで販売している商品を収集し、一括で検索できるサービス。
 
+[Greeedy - App Store](https://apps.apple.com/jp/app/greeedy/id1615291449)
+
 | リポジトリ | 説明 |
 |:--------:|:-----|
 | [greeedy](https://github.com/gtaiyou24/greeedy) | バックエンドアプリケーション |
