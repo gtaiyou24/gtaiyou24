@@ -15,6 +15,22 @@
 
 ## <img src="https://2.bp.blogspot.com/-Gp2_6OZJ1FQ/XASwZmJF9yI/AAAAAAABQZ0/C8dUDl0e_uEWbDjvwNAo8DArlJX4vIaFwCLcBGAs/s800/computer_programming_man.png" height="25" width="25" style="max-width:100%;"> 自作サービス
 
+### <img src="https://toushi-simulator.com/logo.png" height="18" width="18" style="max-width:100%;"> 投資シミュレーション.com
+証券会社で購入できる株式、投資信託に投資した場合のシミュレーションを行えるサイト
+
+https://toushi-simulator.com/
+
+<img width="400" alt="スクリーンショット 2023-12-27 16 57 12" src="https://github.com/gtaiyou24/gtaiyou24/assets/10095500/9897e629-18dc-403d-83da-6cbc6bb036b1">
+
+<img width="400" alt="スクリーンショット 2023-12-27 16 57 23" src="https://github.com/gtaiyou24/gtaiyou24/assets/10095500/f9eb06d5-9668-43f6-b5cc-7ba05268257d">
+
+### <img src="https://money-book-rank.com/icon.png" height="18" width="18" style="max-width:100%;"> マネーブックランク
+投資・NISA・副業などのお金に関する本のランキングサイト。インターネット上のレビューデータを収集し、引用に基づいてランキング付けをしています。
+
+https://money-book-rank.com
+
+<img width="400" src="https://github.com/gtaiyou24/gtaiyou24/assets/10095500/b6ef9198-c1d4-4f7e-b17f-3d06cc3ab3f0">
+
 ### 🕸️ Epic Bot - 汎用型クローリングシステム
 各Webサイトからデータを収集する汎用型のクローリングシステム。各サイトのデザインに依存せずに、適切なデータを自動的に抽出できます。
 
@@ -34,16 +50,6 @@
 |:--------:|:-----|
 | [greeedy](https://github.com/gtaiyou24/greeedy) | バックエンドアプリケーション |
 | [iOS](https://github.com/gtaiyou24/Greeedy-iOS) | iOSアプリ |
-
-### <img src="https://toushi-simulator.com/logo.png"  height="18" width="18" style="max-width:100%;"> 投資シミュレーション.com
-証券会社で購入できる株式、投資信託に投資した場合のシミュレーションを行えるサイト
-
-https://toushi-simulator.com/
-
-<img width="400" alt="スクリーンショット 2023-12-27 16 57 12" src="https://github.com/gtaiyou24/gtaiyou24/assets/10095500/9897e629-18dc-403d-83da-6cbc6bb036b1">
-
-<img width="400" alt="スクリーンショット 2023-12-27 16 57 23" src="https://github.com/gtaiyou24/gtaiyou24/assets/10095500/f9eb06d5-9668-43f6-b5cc-7ba05268257d">
-
 
 ### 💰仮想通貨の自動売買ボット
 
